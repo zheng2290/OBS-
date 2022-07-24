@@ -5,8 +5,10 @@
 <br>1：点击 code
 ![image](https://user-images.githubusercontent.com/96828023/180638644-55a4b041-aecc-4b71-8245-9f1a019fd5d9.png)
 2:点击 downlaod ZIP
+<br>
 ![image](https://user-images.githubusercontent.com/96828023/180638663-37bd5d3c-22e2-4ff4-938c-985c19f07966.png)
-
+<br>
+<br>
 OBS for Windows 10 or Windows 7
 使用方法：
 ![image](https://user-images.githubusercontent.com/96828023/180638114-d6c7d727-f51e-4167-829b-cac8b21325d7.png)
