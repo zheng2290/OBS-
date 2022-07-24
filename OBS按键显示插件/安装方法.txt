@@ -1,0 +1,15 @@
+Windows:
+--------
+Install instructions for OBS Studio plugin Input Overlay
+
+Copy all contents of the folder "plugin" into your OBS install direct-
+ory. This is usually "C:\Program Files (x86)\obs-studio". You'll prob-
+ably need admin rights to copy the files.
+
+Now launch either the 32bit or 64bit version of OBS Studio and a sour-
+ce. You should see a new menu entry called "Input Overlay".
+
+--------------------====---=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=|
+b’æ≤Âº˛ΩÈ…‹@NorushNopain				          ||
+‘≠Õ¯÷∑£∫https://obsproject.com/forum/resources/input-overlay.552/   |
+--------------------====---=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-  ||
