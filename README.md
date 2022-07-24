@@ -1,7 +1,7 @@
 # OBS-
 
 ===============================================
-如何从GitHub上下载？
+<br><em>如何从GitHub上下载？</em>
 <br>1：点击 code
 ![image](https://user-images.githubusercontent.com/96828023/180638644-55a4b041-aecc-4b71-8245-9f1a019fd5d9.png)
 2:点击 downlaod ZIP
